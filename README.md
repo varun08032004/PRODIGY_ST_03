@@ -104,6 +104,12 @@ npx cypress cache clear
 npm install cypress --save-dev
 npx cypress verify
 
+----
+
+
+
+
+
 
 
 
