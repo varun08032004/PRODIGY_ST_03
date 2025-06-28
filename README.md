@@ -104,11 +104,6 @@ npx cypress cache clear
 npm install cypress --save-dev
 npx cypress verify
 
-🧑‍💻 Author
-Name: Varun Girish Deshmukh
-Track: Software Testing
-Task Number: 01
-Internship Program: Prodigy InfoTech
-🌐 Repository Link
-GitHub Repo
-Internship Program: Prodigy InfoTech
+
+
+
